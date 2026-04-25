@@ -10,14 +10,34 @@ Every entry was pushed within the last six months, is not archived, and has been
 
 - [Design Systems](#design-systems)
 - [Design Tokens](#design-tokens)
+- [Branding & Visual Identity](#branding--visual-identity)
+- [Iconography & Illustration](#iconography--illustration)
 - [UX Research](#ux-research)
+- [Personas & User Modeling](#personas--user-modeling)
+- [Journey Mapping & Service Design](#journey-mapping--service-design)
+- [Information Architecture](#information-architecture)
+- [Content Strategy](#content-strategy)
 - [UI Design](#ui-design)
+- [Interaction & Motion Design](#interaction--motion-design)
+- [Data Visualization & Dashboard Design](#data-visualization--dashboard-design)
+- [Onboarding & Activation Design](#onboarding--activation-design)
+- [Conversational UX & Voice Interfaces](#conversational-ux--voice-interfaces)
+- [Spatial, AR & VR Design](#spatial-ar--vr-design)
+- [Email & Marketing UX](#email--marketing-ux)
 - [Accessibility](#accessibility)
+- [Localization & Internationalization](#localization--internationalization)
+- [Behavioral & Persuasive Design](#behavioral--persuasive-design)
 - [Usability Testing & Heuristic Evaluation](#usability-testing--heuristic-evaluation)
+- [A/B Testing, Experimentation & Growth Design](#ab-testing-experimentation--growth-design)
+- [Analytics & UX Metrics](#analytics--ux-metrics)
 - [UX Writing](#ux-writing)
 - [Wireframing & Prototyping](#wireframing--prototyping)
+- [Design-to-Dev Handoff & Specs](#design-to-dev-handoff--specs)
 - [Figma Integration](#figma-integration)
 - [Brainstorming & Ideation](#brainstorming--ideation)
+- [Workshop Facilitation & Design Sprints](#workshop-facilitation--design-sprints)
+- [Design Critique & Career](#design-critique--career)
+- [DesignOps](#designops)
 - [Humanizer & Writing Voice](#humanizer--writing-voice)
 - [Multi-Skill Collections](#multi-skill-collections)
 - [Related Prompt Libraries](#related-prompt-libraries)
@@ -42,6 +62,18 @@ Every entry was pushed within the last six months, is not archived, and has been
 - [Color Expert Skill](https://github.com/meodai/skill.color-expert) - Deep colour-science reference covering OKLCH/OKLAB, APCA/WCAG, and 144 layered documents for palette generation and accessibility.
 - [Design Tokens Skill](https://github.com/ilikescience/design-tokens-skill) - Makes Claude an expert in the Design Tokens Community Group spec across colour spaces, theming, and tooling.
 
+## Branding & Visual Identity
+
+Logo systems, brand expression, and identity work that sits above design tokens.
+
+_Contributions welcome — see [contributing](contributing.md)._
+
+## Iconography & Illustration
+
+Icon-set generation, illustration style systems, and pictogram libraries.
+
+_Contributions welcome — see [contributing](contributing.md)._
+
 ## UX Research
 
 - [Lenny Skills](https://github.com/RefoundAI/lenny-skills) - 86 product-leadership skills from Lenny's Podcast including design engineering, running design reviews, behavioural product design, and writing specs.
@@ -49,6 +81,30 @@ Every entry was pushed within the last six months, is not archived, and has been
 - [Design Suite](https://github.com/mevans2120/design-suite-claude-skills) - Three skills covering Jobs-to-be-Done research, mood-board concepting, and component design inside an existing system.
 - [Design Thinking Skills](https://github.com/rastian/design-thinking-skills) - Coaches teams through the Design Thinking phases from empathise to implement with templates and facilitation scripts.
 - [User Story Mapping Skill](https://github.com/tomershahar/user-story-mapping-skill) - Facilitates Jeff Patton-style user story mapping with coaching plus generation modes and ASCII, Markdown, or Mermaid output.
+
+## Personas & User Modeling
+
+Proto-personas, JTBD personas, empathy maps, and behavioural archetypes.
+
+_Contributions welcome — see [contributing](contributing.md)._
+
+## Journey Mapping & Service Design
+
+Customer journey maps, service blueprints, experience maps, and end-to-end service flows.
+
+_Contributions welcome — see [contributing](contributing.md)._
+
+## Information Architecture
+
+Sitemaps, taxonomies, navigation structures, card sorting, and tree testing.
+
+_Contributions welcome — see [contributing](contributing.md)._
+
+## Content Strategy
+
+Content modeling, governance, audits, and editorial taxonomies — broader than microcopy.
+
+_Contributions welcome — see [contributing](contributing.md)._
 
 ## UI Design
 
@@ -61,6 +117,42 @@ Every entry was pushed within the last six months, is not archived, and has been
 - [UX/UI Evaluation Skills](https://github.com/mastepanoski/claude-skills) - Applies Nielsen heuristics, WCAG, Don Norman principles, and cognitive walkthrough to UI work.
 - [Mobile App Design](https://github.com/awesome-skills/mobile-app-design) - Combines iOS HIG, Material 3, WCAG 2.1, and React Native into a single mobile-design skill with validation scripts.
 
+## Interaction & Motion Design
+
+Microinteractions, animation principles, easing and duration tokens, and state transitions.
+
+_Contributions welcome — see [contributing](contributing.md)._
+
+## Data Visualization & Dashboard Design
+
+Chart selection, dashboard layout, and analytic UX patterns.
+
+_Contributions welcome — see [contributing](contributing.md)._
+
+## Onboarding & Activation Design
+
+First-run experiences, empty-state systems, progressive disclosure, and activation flows.
+
+_Contributions welcome — see [contributing](contributing.md)._
+
+## Conversational UX & Voice Interfaces
+
+Chatbot flows, voice UI, conversation design, prompt design, and error recovery.
+
+_Contributions welcome — see [contributing](contributing.md)._
+
+## Spatial, AR & VR Design
+
+visionOS, WebXR, and spatial interaction patterns for immersive surfaces.
+
+_Contributions welcome — see [contributing](contributing.md)._
+
+## Email & Marketing UX
+
+Transactional and lifecycle email design, landing-page UX, and campaign patterns.
+
+_Contributions welcome — see [contributing](contributing.md)._
+
 ## Accessibility
 
 - [A11y Specialist Skills](https://github.com/masuP9/a11y-specialist-skills) - Four skills for WCAG review, conformance auditing, audit planning, and improvement roadmaps grounded in WCAG 2.2 and axe-core.
@@ -68,10 +160,34 @@ Every entry was pushed within the last six months, is not archived, and has been
 - [Luxembourg Accessibility Skillset](https://github.com/geoffreycrofte/luxembourg-accessibility-skillset) - Skills for Luxembourg accessibility frameworks RAWeb, RAAM, and RAPDF based on EN 301 549 and WCAG 2.1.
 - [Claude A11y Skill](https://github.com/airowe/claude-a11y-skill) - Runs accessibility audits via axe-core at runtime and eslint-plugin-jsx-a11y statically inside Claude Code.
 
+## Localization & Internationalization
+
+RTL support, pluralization, locale-aware layouts, and translation-ready UI patterns.
+
+_Contributions welcome — see [contributing](contributing.md)._
+
+## Behavioral & Persuasive Design
+
+Behavioural science, nudges, persuasion patterns, and the ethics of dark patterns.
+
+_Contributions welcome — see [contributing](contributing.md)._
+
 ## Usability Testing & Heuristic Evaluation
 
 - [UX Heuristic Evaluation](https://github.com/mengxuebi-mush/ux-heuristic-evaluation) - Runs Nielsen's ten heuristics against screenshots, code, or Figma URLs and returns severity-rated Markdown reports.
 - [UX Webapp](https://github.com/altock/ux-webapp) - Performs web app usability audits, accessibility checks, and design specs grounded in Nielsen and WCAG 2.2 AA.
+
+## A/B Testing, Experimentation & Growth Design
+
+Hypothesis writing, experiment design, conversion-rate optimisation, and growth-focused UX.
+
+_Contributions welcome — see [contributing](contributing.md)._
+
+## Analytics & UX Metrics
+
+Funnel analysis, HEART, SUS, event taxonomies, and quantitative UX measurement.
+
+_Contributions welcome — see [contributing](contributing.md)._
 
 ## UX Writing
 
@@ -81,6 +197,12 @@ Every entry was pushed within the last six months, is not archived, and has been
 
 - [Claude Wireframe Skill](https://github.com/Magdoub/claude-wireframe-skill) - Generates black-and-white wireframe HTML prototypes plus four exploratory variants after scanning the codebase for context.
 - [Design Feel Like Your Own Product](https://github.com/Tiannanzhao/design-feel-like-your-own-product) - Reads Figma files to learn a designer's patterns, then generates new components that match the existing voice.
+
+## Design-to-Dev Handoff & Specs
+
+Redlines, annotations, spec generation, and developer-handoff workflows.
+
+_Contributions welcome — see [contributing](contributing.md)._
 
 ## Figma Integration
 
@@ -98,6 +220,24 @@ Every entry was pushed within the last six months, is not archived, and has been
 - [UX Wise Agent](https://github.com/marvinrez/ux-wise-agent) - Opinionated senior UX consultant with four modes for strategic, direct, provocative, and research conversations.
 - [Iorlas Brainstorm](https://github.com/iorlas/iorlas-brainstorm) - Five-phase decision-coaching skill with pattern detection and micro-commands for steelman, premortem, and invert.
 - [Fiberplane BS](https://github.com/fiberplane/bs) - Generates rich visual HTML plans with Mermaid diagrams, callouts, and file trees for Fiberplane rendering.
+
+## Workshop Facilitation & Design Sprints
+
+Crazy 8s, dot voting, GV-style sprints, and stakeholder-alignment facilitation scripts.
+
+_Contributions welcome — see [contributing](contributing.md)._
+
+## Design Critique & Career
+
+Giving and receiving design feedback, portfolio writing, and case-study narratives.
+
+_Contributions welcome — see [contributing](contributing.md)._
+
+## DesignOps
+
+Team workflows, intake processes, file hygiene, and design-tooling operations.
+
+_Contributions welcome — see [contributing](contributing.md)._
 
 ## Humanizer & Writing Voice
 
