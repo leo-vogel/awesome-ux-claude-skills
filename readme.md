@@ -10,14 +10,34 @@ Every entry was pushed within the last six months, is not archived, and has been
 
 - [Design Systems](#design-systems)
 - [Design Tokens](#design-tokens)
+- [Branding & Visual Identity](#branding--visual-identity)
+- [Iconography & Illustration](#iconography--illustration)
 - [UX Research](#ux-research)
+- [Personas & User Modeling](#personas--user-modeling)
+- [Journey Mapping & Service Design](#journey-mapping--service-design)
+- [Information Architecture](#information-architecture)
+- [Content Strategy](#content-strategy)
 - [UI Design](#ui-design)
+- [Interaction & Motion Design](#interaction--motion-design)
+- [Data Visualization & Dashboard Design](#data-visualization--dashboard-design)
+- [Onboarding & Activation Design](#onboarding--activation-design)
+- [Conversational UX & Voice Interfaces](#conversational-ux--voice-interfaces)
+- [Spatial, AR & VR Design](#spatial-ar--vr-design)
+- [Email & Marketing UX](#email--marketing-ux)
 - [Accessibility](#accessibility)
+- [Localization & Internationalization](#localization--internationalization)
+- [Behavioral & Persuasive Design](#behavioral--persuasive-design)
 - [Usability Testing & Heuristic Evaluation](#usability-testing--heuristic-evaluation)
+- [A/B Testing, Experimentation & Growth Design](#ab-testing-experimentation--growth-design)
+- [Analytics & UX Metrics](#analytics--ux-metrics)
 - [UX Writing](#ux-writing)
 - [Wireframing & Prototyping](#wireframing--prototyping)
+- [Design-to-Dev Handoff & Specs](#design-to-dev-handoff--specs)
 - [Figma Integration](#figma-integration)
 - [Brainstorming & Ideation](#brainstorming--ideation)
+- [Workshop Facilitation & Design Sprints](#workshop-facilitation--design-sprints)
+- [Design Critique & Career](#design-critique--career)
+- [DesignOps](#designops)
 - [Humanizer & Writing Voice](#humanizer--writing-voice)
 - [Multi-Skill Collections](#multi-skill-collections)
 - [Related Prompt Libraries](#related-prompt-libraries)
@@ -42,6 +62,16 @@ Every entry was pushed within the last six months, is not archived, and has been
 - [Color Expert Skill](https://github.com/meodai/skill.color-expert) - Deep colour-science reference covering OKLCH/OKLAB, APCA/WCAG, and 144 layered documents for palette generation and accessibility.
 - [Design Tokens Skill](https://github.com/ilikescience/design-tokens-skill) - Makes Claude an expert in the Design Tokens Community Group spec across colour spaces, theming, and tooling.
 
+## Branding & Visual Identity
+
+- [AI Graphic Design Skill](https://github.com/designrique/ai-graphic-design-skill) - Guides logo, brand-identity, and visual-asset creation with prompt engineering, vectorisation, and IP-safety checks.
+- [Pictos Design System](https://github.com/mediafranca/pictos-design-system) - Branded asset and interface generator for the Pictos AAC system with canonical tokens, voice rules, and UI kit recipes.
+
+## Iconography & Illustration
+
+- [Canon](https://github.com/Dragoon0x/canon) - Canonical design-language bundle whose `canon-icons` and `canon-illustrations` skills cover icon sizing, stroke weight, accessibility, and illustration usage.
+- [Gemini SVG Creator](https://github.com/htuzel/gemini-svg-creator) - Generates SVG logos, icons, and illustrations through a Gemini 3.1 Pro MCP refinement loop with auto-optimisation.
+
 ## UX Research
 
 - [Lenny Skills](https://github.com/RefoundAI/lenny-skills) - 86 product-leadership skills from Lenny's Podcast including design engineering, running design reviews, behavioural product design, and writing specs.
@@ -49,6 +79,27 @@ Every entry was pushed within the last six months, is not archived, and has been
 - [Design Suite](https://github.com/mevans2120/design-suite-claude-skills) - Three skills covering Jobs-to-be-Done research, mood-board concepting, and component design inside an existing system.
 - [Design Thinking Skills](https://github.com/rastian/design-thinking-skills) - Coaches teams through the Design Thinking phases from empathise to implement with templates and facilitation scripts.
 - [User Story Mapping Skill](https://github.com/tomershahar/user-story-mapping-skill) - Facilitates Jeff Patton-style user story mapping with coaching plus generation modes and ASCII, Markdown, or Mermaid output.
+
+## Personas & User Modeling
+
+- [UX Research Skills](https://github.com/uh-joan/ux-research-skills) - Turns interview transcripts into personas, JTBD, empathy maps, and behavioural archetypes following Nielsen Norman Group methodology.
+- [Product Manager Skills](https://github.com/deanpeters/Product-Manager-Skills) - PM skill set including `proto-persona`, `jobs-to-be-done`, and `lean-ux-canvas` for early-stage user modeling.
+- [Synthetic Persona](https://github.com/sumrae412/claude-skills) - Builds role-playable personas from public data for design reviews, brainstorming, and pitch rehearsals.
+
+## Journey Mapping & Service Design
+
+- [Intent](https://github.com/ghaida/intent) - Design strategy system whose `journey` and `blueprint` skills cover end-to-end user flows, service blueprints, and ecosystem maps.
+- [Activate Framework](https://github.com/peregrine-digital/activate-framework) - Cross-functional delivery framework with a `create-service-blueprint` skill mapping frontstage, backstage, and failure points.
+
+## Information Architecture
+
+- [Screens to IA Figma](https://github.com/mariespreitzer/screens-to-ia-figma) - Reads Figma screen structure via MCP and writes a sitemap and content-hierarchy IA page back into the same file, ready for PDF export.
+
+## Content Strategy
+
+Content modeling, governance, audits, and editorial taxonomies — broader than microcopy.
+
+_Contributions welcome — see [contributing](contributing.md)._
 
 ## UI Design
 
@@ -61,6 +112,40 @@ Every entry was pushed within the last six months, is not archived, and has been
 - [UX/UI Evaluation Skills](https://github.com/mastepanoski/claude-skills) - Applies Nielsen heuristics, WCAG, Don Norman principles, and cognitive walkthrough to UI work.
 - [Mobile App Design](https://github.com/awesome-skills/mobile-app-design) - Combines iOS HIG, Material 3, WCAG 2.1, and React Native into a single mobile-design skill with validation scripts.
 
+## Interaction & Motion Design
+
+- [Design Motion Principles](https://github.com/kylezantos/design-motion-principles) - Audits UI motion against Kowalski, Krehel, and Tompkins philosophies with checklists for easing, duration, and reduced-motion compliance.
+- [Motion.dev Animations Skill](https://github.com/199-biotechnologies/motion-dev-animations-skill) - Generates production-grade Motion.dev animations for React, Next.js, Svelte, and Astro with 60fps and prefers-reduced-motion guards.
+- [Animate Skill](https://github.com/delphi-ai/animate-skill) - Provides Next.js and React animation patterns based on Emil Kowalski's course covering hover, toast, text reveal, and card expansion microinteractions.
+
+## Data Visualization & Dashboard Design
+
+- [KPI Dashboard Design](https://github.com/Oceanjackson1/Claude-Skill) - Codifies KPI selection, dashboard layout, chart-type-to-data-type mapping, and drill-down filters for executive analytics dashboards.
+
+## Onboarding & Activation Design
+
+- [App Onboarding Questionnaire](https://github.com/adamlyttleapps/claude-skill-app-onboarding-questionnaire) - Designs questionnaire-style mobile onboarding using a 14-screen psychological framework modelled on Headspace, Noom, and Duolingo.
+- [OnboardJS Skills](https://github.com/OnboardJS/onboardjs-skills) - Builds React and Next.js onboarding flows, multi-step wizards, and guided tours via OnboardJS with optional opt-in persistence.
+- [UX Psychology Skill](https://github.com/Nuclear-Marmalade/ux-psychology-skill) - Reviews UI against 65 behavioural-psychology principles for progressive disclosure, cognitive load, and Zeigarnik progress patterns with anti-dark-pattern guardrails.
+
+## Conversational UX & Voice Interfaces
+
+Chatbot flows, voice UI, conversation design, prompt design, and error recovery.
+
+_Contributions welcome — see [contributing](contributing.md)._
+
+## Spatial, AR & VR Design
+
+- [VisionOS Design](https://github.com/dirnbauer/webconsulting-skills) - Apple visionOS HIG skill covering spatial layout, eye and hand input, windows, volumes, immersive spaces, and accessibility for Vision Pro.
+- [A-Frame WebXR](https://github.com/freshtechbro/claudedesignskills) - Declarative HTML-based skill for building 3D, VR, and AR experiences across browsers and headsets with A-Frame.
+- [WebXR RATK](https://github.com/Entelligentsia/skillforge) - Bridges WebXR planes, anchors, and hit-testing into Three.js scenes using the Reality Accelerator Toolkit.
+
+## Email & Marketing UX
+
+- [Marketing Science Skills](https://github.com/iclaudioo/marketing-science-skills) - Email marketing skill covering lifecycle sequences, deliverability via SPF, DKIM, and DMARC, GDPR, segmentation, and CTOR-based measurement.
+- [AgentKits Marketing](https://github.com/aitytech/agentkits-marketing) - Enterprise marketing skill pack with email campaigns, deliverability, segmentation, and lifecycle automation patterns.
+- [Page CRO](https://github.com/alexwelcing/copy) - Landing-page CRO skill with value-prop tests, headline formulas, CTA placement, trust signals, and page-type playbooks.
+
 ## Accessibility
 
 - [A11y Specialist Skills](https://github.com/masuP9/a11y-specialist-skills) - Four skills for WCAG review, conformance auditing, audit planning, and improvement roadmaps grounded in WCAG 2.2 and axe-core.
@@ -68,10 +153,32 @@ Every entry was pushed within the last six months, is not archived, and has been
 - [Luxembourg Accessibility Skillset](https://github.com/geoffreycrofte/luxembourg-accessibility-skillset) - Skills for Luxembourg accessibility frameworks RAWeb, RAAM, and RAPDF based on EN 301 549 and WCAG 2.1.
 - [Claude A11y Skill](https://github.com/airowe/claude-a11y-skill) - Runs accessibility audits via axe-core at runtime and eslint-plugin-jsx-a11y statically inside Claude Code.
 
+## Localization & Internationalization
+
+- [React Admin i18n](https://github.com/marmelab/react-admin) - Official react-admin i18n skill covering namespace conventions, Polyglot pluralisation, type-safe catalogues, and locale switchers.
+- [i18n Expert](https://github.com/daymade/claude-code-skills) - General-purpose i18n skill covering library setup, key parity audits, RTL support, and en-US plus zh-CN coverage.
+- [i18n Pass](https://github.com/modrinth/code) - Modrinth's skill that converts hard-coded English in Vue SFCs to ICU messages with `defineMessages` and `formatMessage`.
+
+## Behavioral & Persuasive Design
+
+- [Brainbase](https://github.com/Unson-LLC/brainbase) - Behavioural persuasion skill applying Cialdini's principles, nudge architecture, and System 1 and 2 strategy with explicit ethics checkpoints.
+- [Maxim](https://github.com/DrNabeelKhan/maxim) - Behavioural designer skill grounded in the Fogg Behavior Model, COM-B, Hook Model, EAST, and nudge theory with anti-dark-pattern guardrails.
+- [Marketing Psychology](https://github.com/aitytech/agentkits-marketing) - Skill with 70+ mental models spanning persuasion, pricing perception, Hick's Law, and Fogg's behaviour model.
+
 ## Usability Testing & Heuristic Evaluation
 
 - [UX Heuristic Evaluation](https://github.com/mengxuebi-mush/ux-heuristic-evaluation) - Runs Nielsen's ten heuristics against screenshots, code, or Figma URLs and returns severity-rated Markdown reports.
 - [UX Webapp](https://github.com/altock/ux-webapp) - Performs web app usability audits, accessibility checks, and design specs grounded in Nielsen and WCAG 2.2 AA.
+
+## A/B Testing, Experimentation & Growth Design
+
+- [Sanity Content Experimentation](https://github.com/sanity-io/agent-toolkit) - Sanity's experimentation skill covering hypotheses, sample size, statistical foundations, and 17 common analysis pitfalls.
+- [A/B Test Setup](https://github.com/aitytech/agentkits-marketing) - Skill covering hypothesis writing, MDE policies, variant design, statistical significance, and the peeking problem.
+- [A/B Testing](https://github.com/dirnbauer/webconsulting-skills) - Skill for experiment design, sample sizing, and result interpretation in enterprise web stacks.
+
+## Analytics & UX Metrics
+
+- [Data Analytics Skills](https://github.com/nimrodfisher/data-analytics-skills) - Skill pack with funnel analysis, cohort analysis, retention, segmentation, and A/B test files for quantitative product and UX investigation.
 
 ## UX Writing
 
@@ -81,6 +188,12 @@ Every entry was pushed within the last six months, is not archived, and has been
 
 - [Claude Wireframe Skill](https://github.com/Magdoub/claude-wireframe-skill) - Generates black-and-white wireframe HTML prototypes plus four exploratory variants after scanning the codebase for context.
 - [Design Feel Like Your Own Product](https://github.com/Tiannanzhao/design-feel-like-your-own-product) - Reads Figma files to learn a designer's patterns, then generates new components that match the existing voice.
+
+## Design-to-Dev Handoff & Specs
+
+- [Claude Handoff](https://github.com/willseltzer/claude-handoff) - Generates a structured HANDOFF.md so another agent or developer can pick up work mid-flight, with local-file-only scope.
+- [Claude Code Tips Handoff](https://github.com/ykdojo/claude-code-tips) - Handoff skill that captures goals, progress, and next steps into a HANDOFF.md for clean dev handoff between sessions.
+- [Figma Review Skill](https://github.com/shomtsm/figma-review-skill) - Reviews Figma frames from an engineer's perspective and posts location-specific comments back to the file with disclosed Figma token scope.
 
 ## Figma Integration
 
@@ -98,6 +211,22 @@ Every entry was pushed within the last six months, is not archived, and has been
 - [UX Wise Agent](https://github.com/marvinrez/ux-wise-agent) - Opinionated senior UX consultant with four modes for strategic, direct, provocative, and research conversations.
 - [Iorlas Brainstorm](https://github.com/iorlas/iorlas-brainstorm) - Five-phase decision-coaching skill with pattern detection and micro-commands for steelman, premortem, and invert.
 - [Fiberplane BS](https://github.com/fiberplane/bs) - Generates rich visual HTML plans with Mermaid diagrams, callouts, and file trees for Fiberplane rendering.
+
+## Workshop Facilitation & Design Sprints
+
+- [Wondelai Skills](https://github.com/wondelai/skills) - Includes a `design-sprint` skill covering the full GV 5-day sprint: mapping, Crazy 8s, dot voting, prototyping, and 5-user testing.
+- [PM Workshop Skills](https://github.com/deanpeters/Product-Manager-Skills) - Ships `workshop-facilitation`, `customer-journey-mapping-workshop`, and `lean-ux-canvas` for one-question-at-a-time facilitated sessions.
+- [Facilitation Patterns](https://github.com/lyndonkl/claude) - Provides reusable patterns for running meetings, workshops, and retros with structured agendas and decision rules.
+
+## Design Critique & Career
+
+- [Design Critique Skill](https://github.com/cuellarfr/design-skills) - Runs heuristic evaluations grounded in Nielsen, Laws of UX, and IA principles, returning specific actionable feedback rather than taste-based notes.
+- [Design Evaluation Audit](https://github.com/lyndonkl/claude) - Audits existing designs against cognitive checklists with severity-classified findings and prioritised fixes.
+
+## DesignOps
+
+- [Design Ops Skill](https://github.com/cuellarfr/design-skills) - Covers handoff specs, team rituals, documentation standards, and design QA — the operational layer of running a design team.
+- [Reviews, Retros, Reflection](https://github.com/lyndonkl/claude) - Facilitates blameless retros, post-mortems, and reviews with SMART action items for the team-cadence side of DesignOps.
 
 ## Humanizer & Writing Voice
 
